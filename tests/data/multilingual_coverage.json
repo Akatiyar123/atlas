@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "language": "en",
+    "prompt": "Explain the lesson in English.",
+    "response": "This is the English version of the lesson."
+  },
+  {
+    "id": "2",
+    "language": "es",
+    "prompt": "Explica la lección en español.",
+    "response": "Esta es la versión en español de la lección."
+  },
+  {
+    "id": "3",
+    "language": "fr",
+    "prompt": "Explique la leçon en français.",
+    "response": "Voici la version française de la leçon."
+  },
+  {
+    "id": "4",
+    "language": "de",
+    "prompt": "Erkläre die Lektion auf Deutsch.",
+    "response": "Dies ist die deutsche Version der Lektion."
+  }
+]
