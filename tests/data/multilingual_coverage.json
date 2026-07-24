@@ -7,20 +7,26 @@
   },
   {
     "id": "2",
-    "language": "es",
-    "prompt": "Explica la lección en español.",
-    "response": "Esta es la versión en español de la lección."
+    "language": "hi",
+    "prompt": "पाठ को हिंदी में समझाइए।",
+    "response": "यह पाठ का हिंदी संस्करण है।"
   },
   {
     "id": "3",
-    "language": "fr",
-    "prompt": "Explique la leçon en français.",
-    "response": "Voici la version française de la leçon."
+    "language": "bn",
+    "prompt": "পাঠটি বাংলায় ব্যাখ্যা করুন।",
+    "response": "এটি পাঠের বাংলা সংস্করণ।"
   },
   {
     "id": "4",
-    "language": "de",
-    "prompt": "Erkläre die Lektion auf Deutsch.",
-    "response": "Dies ist die deutsche Version der Lektion."
+    "language": "ta",
+    "prompt": "பாடத்தை தமிழில் விளக்கவும்.",
+    "response": "இது பாடத்தின் தமிழ் பதிப்பு."
+  },
+  {
+    "id": "5",
+    "language": "te",
+    "prompt": "పాఠాన్ని తెలుగులో వివరించండి.",
+    "response": "ఇది పాఠం యొక్క తెలుగు సంచిక."
   }
 ]
